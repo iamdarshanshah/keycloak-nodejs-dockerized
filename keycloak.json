@@ -1,0 +1,11 @@
+{
+  "realm": "demo",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "ssl-required": "external",
+  "resource": "ent/stackroute-nodejs-app",
+  "credentials": {
+    "secret": "2560b508-db97-464c-a0cf-7d7b14a97d5d"
+  },
+  "public-client": true,
+  "confidential-port": 0
+}

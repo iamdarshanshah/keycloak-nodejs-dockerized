@@ -1,0 +1,26 @@
+{
+  "name": "keycloak-nodejs",
+  "version": "1.0.0",
+  "description": "A sample nodejs service with keycloak integrated",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.stackroute.in:10024/enterprisecommon/keycloakdeployment.git"
+  },
+  "keywords": [
+    "keycloak",
+    "nodejs",
+    "https",
+    "ssl"
+  ],
+  "author": "Darshan Shah (www.github.com/iamdarshanshah)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "keycloak-connect": "^9.0.0"
+  }
+}
