@@ -20,7 +20,7 @@
   "author": "Darshan Shah (www.github.com/iamdarshanshah)",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "keycloak-connect": "^9.0.0"
   }
 }
